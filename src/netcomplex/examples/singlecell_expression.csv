@@ -1,0 +1,6 @@
+gene,cell_01,cell_02,cell_03,cell_04,cell_05,cell_06
+EGFR,2,0,3,8,7,9
+ERBB2,1,0,2,6,5,7
+GRB2,1,1,2,5,4,6
+AKT1,0,1,1,4,3,5
+GAPDH,7,8,6,9,8,9

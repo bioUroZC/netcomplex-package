@@ -1,0 +1,5 @@
+protein1,protein2,confidence
+EGFR,ERBB2,0.97
+EGFR,GRB2,0.94
+ERBB2,GRB2,0.91
+GRB2,AKT1,0.89

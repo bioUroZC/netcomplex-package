@@ -1,0 +1,4 @@
+Complex,Genes
+EGFR receptor complex,EGFR;ERBB2;GRB2
+EGFR-AKT signalling module,EGFR;GRB2;AKT1
+Partially measured example,EGFR;MISSING_GENE
